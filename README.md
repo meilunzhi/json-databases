@@ -10,7 +10,7 @@ Functionality inspired by ORM's
 
 Requirements
 ------------
-- PHP 7.1+
+- PHP 5.6+
 - Composer
 
 Installation
