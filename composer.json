@@ -1,8 +1,8 @@
 {
-    "name": "json-database",
+    "name": "json_database",
     "description": "PHP library to use JSON files like flat-file database",
     "keywords": ["lazer", "simple", "json", "flat", "file", "database", "db"],
-    "homepage": "https://github.com/meilunzhi/json-database",
+    "homepage": "https://github.com/meilunzhi/json_database",
     "license": "MIT",
     "authors": [
         {
